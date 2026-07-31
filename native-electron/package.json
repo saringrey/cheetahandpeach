@@ -1,0 +1,7 @@
+{
+  "name": "cheetah-and-peach-native",
+  "productName": "The Cheetah & The Peach",
+  "version": "1.0.0",
+  "private": true,
+  "main": "main.cjs"
+}
