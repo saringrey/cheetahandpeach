@@ -2,9 +2,10 @@
 
 > *A Little Journey Back to the Beginning*
 
-A short emotional 3D exploration game built as a birthday gift for you the love of my life. How we met.
+A short emotional 3D exploration game built as a birthday gift for the love of my life. 
+How we met.
 
-run it: 
+run:
 ```bash
 npm install
 npm run dev          # http://localhost:5173
